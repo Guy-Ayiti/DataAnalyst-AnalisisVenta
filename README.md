@@ -1,4 +1,4 @@
-<h1 align="left">Proyecto : Análisis de Venta</h1>
+<h2 align="left">Proyecto : Análisis de Venta</h2>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">
+<p>
   <img src=https://github.com/Guy-Ayiti/DataAnalyst-AnalisisVenta/blob/main/dashboard_asia.png width="600">
 </p>
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="center">
+<p>
   <img src=https://github.com/Guy-Ayiti/DataAnalyst-AnalisisVenta/blob/main/modelo_semantico.png width="600">
 </p>  
 
