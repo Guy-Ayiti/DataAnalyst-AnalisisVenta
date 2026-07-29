@@ -1,4 +1,4 @@
-<h3 align="left">Proyecto : Análisis de Venta</h3>
+<h1 align="left">Proyecto : Análisis de Venta</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">Dashboard de Análisis :</h4>
+<h2 align="left">Dashboard de Análisis :</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="left">Modelo Semántico :</h4>
+<h2 align="left">Modelo Semántico :</h2>
 
 ###
 
