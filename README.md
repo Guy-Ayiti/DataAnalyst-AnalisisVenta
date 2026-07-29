@@ -12,7 +12,9 @@
 
 ###
 
-![alt text](https://github.com/Guy-Ayiti/DataAnalyst-AnalisisVenta/blob/main/dashboard_asia.png)
+<p align="center">
+  <img src=https://github.com/Guy-Ayiti/DataAnalyst-AnalisisVenta/blob/main/dashboard_asia.png width="600">
+</p>
 
 ###
 
@@ -20,8 +22,9 @@
 
 ###
 
-![alt text](https://github.com/Guy-Ayiti/DataAnalyst-AnalisisVenta/blob/main/modelo_semantico.png)
-  
+<p align="center">
+  <img src=https://github.com/Guy-Ayiti/DataAnalyst-AnalisisVenta/blob/main/modelo_semantico.png width="600">
+</p>  
 
 ###
 
